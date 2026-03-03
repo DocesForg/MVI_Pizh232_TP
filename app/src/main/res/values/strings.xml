@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quick Payment</string>
+    <string name="widget_title">Быстрый платёж</string>
+    <string name="widget_empty">Нет данных. Откройте приложение.</string>
+</resources>
